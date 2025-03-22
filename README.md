@@ -2,7 +2,7 @@
 
 <img src="assets/img/Website.png" width="600" alt="Imrane's Portfolio">
 
-Want to see it in action? You can find the website [here](https://mitchellsparrow.com)!
+Want to see it in action? You can find the website [here](https://imrane-portfolio.vercel.app/)!
 
 ## Overview
 A sleek portfolio website built with Bootstrap 5.3.3, HTML5, CSS3, and JavaScript. Fully responsive, SEO-optimized, and featuring smooth animations, a contact form, and a testimonial carousel—designed to showcase my skills and projects.
